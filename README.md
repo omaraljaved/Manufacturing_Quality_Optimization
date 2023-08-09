@@ -10,10 +10,7 @@ In quality engineering, optimizing manufacturing processes to enhance product qu
 # Dependencies:
 1. NumPy: Used for numerical operations.
 2. Matplotlib: Used for creating plots.
-
-<p align="center">
-    <img src="![image](https://github.com/omaraljaved/Manufacturing_Quality_Optimization/assets/67588258/083ccf0e-bcd5-4b97-9556-fee8da1e1ee9)
-">
-</p>
-
-<p align="center"><em><strong>Figure: Quality Improvement Progression</strong></em></p>
+<div align="center">
+  <img src="https://github.com/omaraljaved/Manufacturing_Quality_Optimization/assets/67588258/ecd9d280-db11-49a7-9bff-5b5816a7b293" alt="Quality Improvement Progression">
+  <p><em><strong>Figure: Quality Improvement Progression</strong></em></p>
+</div>
