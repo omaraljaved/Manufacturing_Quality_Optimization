@@ -11,6 +11,7 @@ In quality engineering, optimizing manufacturing processes to enhance product qu
 1. NumPy: Used for numerical operations.
 2. Matplotlib: Used for creating plots.
 <div align="center">
-  <img src="https://github.com/omaraljaved/Manufacturing_Quality_Optimization/assets/67588258/ecd9d280-db11-49a7-9bff-5b5816a7b293" alt="Quality Improvement Progression">
-  <p><em><strong>Figure: Quality Improvement Progression</strong></em></p>
+  <img src="![plot](https://github.com/omaraljaved/Manufacturing_Quality_Optimization/assets/67588258/f814c3f6-1d45-4a89-bdb2-4422f51f6c43)
+" alt="Energy Consumption of Optimal Production Schedule">
+  <p><em><strong>Figure: Energy Consumption of Optimal Production Schedule</strong></em></p>
 </div>
